@@ -1,6 +1,6 @@
 import './App.css';
 import Resume from './resume';
-import { IconBase } from 'react-icons';
+
 
 function App() {
   return (
