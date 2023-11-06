@@ -1,0 +1,77 @@
+.image {
+  position: relative;
+right:-642px;
+ overflow: hidden;
+ border-radius: 50%;
+  width: 165px;
+  height: 165px; 
+  top: -190px;
+  
+}
+
+.info-item {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+  }
+  
+  .label {
+    width: 200px; 
+    text-align: left;
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .value {
+    flex: 1;
+    word-wrap: break-word;
+  }
+
+  .personal{
+    
+    width: 1400px;
+    padding: 25px;
+    margin: 30px;
+    padding-top: 4%;
+  }
+  .line{
+    background: linear-gradient(90deg, #ad6aba, #eeebef);
+    height: 175px;
+  }
+  .list{
+text-align: left;
+  }
+  .body{
+    
+    width: 1400px;
+    padding: 25px;
+    margin: 10px;
+  }
+  .sign{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 615px;
+    top: -41px;
+  }
+  .overall{
+    border-radius:1px black;
+    
+    width: 8.5in;
+    min-height: 500vh;
+  margin-left: 22%;
+  }
+  .table{
+   
+    border-collapse: collapse;
+    width: 20cm;
+    height: 12cm;
+  }
+  .table, th, tr, td{
+    border: 2px solid black;
+  }
+  
+  .tabletext{
+    text-align: center;
+  }
+  
+  
